@@ -1,4 +1,5 @@
 # DeepBrainStimulation_modelling
+[in progress]
 Computational modelling project looking at how a neuron from the subthalamic nucleus behaves under non-conventional deep brain stimulation waveforms.
 
 The model runs on NEURON (https://www.neuron.yale.edu). Data created by running the model was exported from NEURON and analysed in R (scripts included).
