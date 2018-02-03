@@ -12,4 +12,4 @@ And is available here:
 
 https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151460
 
-The workings of the model, the improvements I made, and the data processing R script are detailed in the Material and Methods section of the Master thesis pdf file.
+The workings of the model, the improvements I made, and the data processing R scripts are detailed in the Material and Methods section of the Master thesis pdf file.
