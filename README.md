@@ -16,4 +16,7 @@ https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151460
 
 The workings of the model, the improvements I made, and the data processing R scripts are detailed in the Material and Methods section of the Master thesis pdf file.
 
-Please feel free to contact me for questions if you would like to work on this model.
+Please feel free to contact me for questions if you would like to work on this model:
+
+twitter: francois_kroll
+email: francois@kroll.be
