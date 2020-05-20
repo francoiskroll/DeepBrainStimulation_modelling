@@ -18,7 +18,7 @@ The workings of the model, the improvements I made, and the data processing R sc
 
 Please feel free to contact me for questions if you would like to work on this model:
 
-* [![alt text][1.1]][1] @francois_kroll
+* [![alt text][1.2]][1] @francois_kroll
 
 * :email: francois@kroll.be
 
