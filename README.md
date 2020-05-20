@@ -20,7 +20,7 @@ Please feel free to contact me for questions if you would like to work on this m
 
 * [![alt text][1.1]][1] @francois_kroll
 
-* :email:: francois@kroll.be
+* :email: francois@kroll.be
 
 <!-- icons with padding -->
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
